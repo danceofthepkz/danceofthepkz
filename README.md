@@ -1,16 +1,22 @@
-## Hi there 👋
+# Steven Peng
 
-<!--
-**danceofthepkz/danceofthepkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Cognitive Science @ Swarthmore College**
 
-Here are some ideas to get you started:
+I study how AI systems model human behavior and how interactive AI can support human judgment under uncertainty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Across my work, I ask one recurring question: **When can we trust a computational model of human behavior?**
+
+## Current Research
+
+- **Behavioral modeling** — For my thesis, I compare reinforcement-learning models, dynamic logistic regression, and GLM-HMMs to ask whether learning reflects continuous adaptation or switches between latent strategies.
+- **Social simulation audit** — I evaluate whether LLM simulations that match observed behavior also preserve responses to interventions.
+- **ScamPilot** — I study how interactive AI interventions can support scam recognition and response.
+- **PromptSafe** — I investigate how representations of user information shape AI support for security and privacy judgments.
+
+## Research Interests
+
+Human-centered AI · Computational cognitive science · Behavioral modeling · Responsible AI
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kangze-peng/)

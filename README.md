@@ -13,9 +13,13 @@ Across my work, I ask one recurring question: **When can we trust a computationa
 - **ScamPilot** — I study how interactive AI interventions can support scam recognition and response.
 - **PromptSafe** — I investigate how representations of user information shape AI support for security and privacy judgments.
 
+## Open-Source Language Technology
+
+- **[Kickapoo morphological transducer](https://github.com/apertium/apertium-kic)** — Co-developed an open-source Apertium language package for Kickapoo, supporting morphological analysis, generation, and part-of-speech tagging.
+
 ## Research Interests
 
-Human-centered AI · Computational cognitive science · Behavioral modeling · Responsible AI
+Human-centered AI · Computational cognitive science · Behavioral modeling · Responsible AI · Low-resource NLP
 
 ## Connect
 

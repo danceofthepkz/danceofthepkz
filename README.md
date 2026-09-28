@@ -9,7 +9,7 @@ Across my work, I ask one recurring question: **When can we trust a computationa
 ## Current Research
 
 - **Behavioral modeling** — For my thesis, I compare reinforcement-learning models, dynamic logistic regression, and GLM-HMMs to ask whether learning reflects continuous adaptation or switches between latent strategies.
-- **Social simulation audit** — I evaluate whether LLM simulations that match observed behavior also preserve responses to interventions.
+- **[Social simulation audit](https://github.com/danceofthepkz/intervention-response-audit)** — I evaluate whether LLM simulations that match observed behavior also preserve responses to interventions.
 - **ScamPilot** — I study how interactive AI interventions can support scam recognition and response.
 - **PromptSafe** — I investigate how representations of user information shape AI support for security and privacy judgments.
 
